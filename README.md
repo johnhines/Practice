@@ -1,2 +1,2 @@
 # Practice
-Catchall repo to hold practice projects and exercises
+Catch all repo to hold practice projects and exercises
